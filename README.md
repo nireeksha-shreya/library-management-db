@@ -1,9 +1,5 @@
 
----
 
-# 📘 README for `library-management-db`
-
-```md
 # Library Management Database
 
 A relational database design for a Library Management System implemented using SQL.
